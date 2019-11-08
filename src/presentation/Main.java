@@ -5,8 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		// Cédric bosse pour nous !
-		
+		//On compte sur toi Cédric !
 
 	}
 
